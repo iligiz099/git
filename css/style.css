@@ -1,0 +1,9 @@
+.card{
+    width: 50%;
+    height: 100vh;
+    background: #333;
+}
+.card p{
+    font-size: 30px;
+    color: #fff;
+}
